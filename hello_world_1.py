@@ -1,2 +1,3 @@
-print("hello world")
-print("hello git")
+if True:
+  print("hello world")
+  print("hello git")
